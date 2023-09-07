@@ -1,0 +1,6 @@
+{{#user}}
+Name: Somesh
+Skills: HTML, CSS, Python,Django
+Email: somesh.jyothula@gmail.com
+{{/user}}
+
